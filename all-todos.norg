@@ -1,0 +1,21 @@
+@document.meta
+title: all-todos
+description: 
+authors: vaisakh
+categories: todo
+created: 2023-12-16T05:56:17+0530
+updated: 2023-12-16T06:03:15+0530
+version: 1.1.1
+@end
+
+* Todos
+** 2023-12-16
+*** [ ] keyboard-mouse-python
+    create a new fork for keyboard and mouse python libararies called 
+    neo-keyboard and neo-mouse
+
+*** [ ] mouse-guestures
+    make a new python mouse guesture app (cli or pyqt based)
+    
+*** [ ] latex-image-preview
+    create latex preview plugin for neovim based on image.nvim 

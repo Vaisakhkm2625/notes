@@ -1,0 +1,17 @@
+@document.meta
+title: index
+description: 
+authors: vaisakh
+categories: index
+created: 2023-12-15T19:50:14+0530
+updated: 2023-12-16T06:01:35+0530
+version: 1.1.1
+@end
+
+* Summery
+** Index
+   - {:$/index:}[Index]
+** Neorg
+   - {:$/neorg-math:}[Neorg-math]
+** Todo
+   - {:$/all-todos:}[All-todos]
